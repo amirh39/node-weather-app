@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+}
+
+body {
+  color: #333;
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
